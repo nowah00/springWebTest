@@ -1,14 +1,15 @@
-//package com.ssg.membertestspringprj.dto;
+//package com.ssg.membertestspringprj.domain;
 //
 //import lombok.*;
 //
-//@Data
+//@Getter
 //@ToString
 //@Builder
 //@NoArgsConstructor
 //@AllArgsConstructor
-//public class MemberDTO {
+//public class MemberVO {
 //    private String mid;
 //    private String mpw;
 //    private String mname;
 //}
+//
